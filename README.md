@@ -33,6 +33,6 @@
 
 ## Пересечение пиков первой реплики и ENCODE
 ![Image](/img/1.png)
+![Image](/img/2.2.png)
 ![Image](/img/1.1.png)
 ![Image](/img/2.png)
-![Image](/img/2.2.png)
