@@ -1,4 +1,5 @@
 # hw2_chip
+ссылка на колаб - https://colab.research.google.com/drive/1ohRxSr0dX3R4QyPctAdCOsX1-kKuMVrk?usp=sharing
 
 # Чтения были взяты из эксперимента https://www.encodeproject.org/experiments/ENCSR000DPD
 
